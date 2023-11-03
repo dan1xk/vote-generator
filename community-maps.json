@@ -1,0 +1,50 @@
+[
+  {
+    "map": "demon",
+    "mapper": "fregues",
+    "type": "Community",
+    "points": 15,
+    "stars": 5,
+    "releasead": "Released at 2023-11-02"
+  },
+  {
+    "map": "fregues4brasuca",
+    "mapper": "fregues",
+    "type": "Community",
+    "points": 9,
+    "stars": 3,
+    "releasead": "Released at 2023-11-02"
+  },
+  {
+    "map": "fregues4fregues",
+    "mapper": "fregues",
+    "type": "Community",
+    "points": 9,
+    "stars": 3,
+    "releasead": "Released at 2023-11-02"
+  },
+  {
+    "map": "fregues4jey",
+    "mapper": "fregues",
+    "type": "Community",
+    "points": 12,
+    "stars": 4,
+    "releasead": "Released at 2023-11-02"
+  },
+  {
+    "map": "fregues4RogersKae",
+    "mapper": "fregues",
+    "type": "Community",
+    "points": 9,
+    "stars": 3,
+    "releasead": "Released at 2023-11-02"
+  },
+  {
+    "map": "Blessing",
+    "mapper": "Paladox",
+    "type": "Community",
+    "points": 12,
+    "stars": 4,
+    "releasead": "Released at 2020-09-10"
+  }
+]
